@@ -1,7 +1,7 @@
 ### Hi there 👋, my name is Md. Sakhawat Hosen
 #### I am Flutter Developer
 
-I'm a Computer Science and Engineering student with a passion for competitive programming and app development. With 1700+ problems solved on platforms like Codeforces and LeetCode, I'm also diving into Flutter development using C, C++, Java, and Dart. Actively participating in programming contests, I aim to create innovative, user-friendly applications. Let's connect and collaborate! 🚀
+I'm a Computer Science and Engineering student with a passion for competitive programming and app development. With 2000+ problems solved on platforms like Codeforces and LeetCode, I'm also diving into Flutter development using C, C++, Java, and Dart. Actively participating in programming contests, I aim to create innovative, user-friendly applications. Let's connect and collaborate! 🚀
 
 Skills: Competitive Programming • Data Structures • Algorithms • Flutter • Mobile Application Development
 
